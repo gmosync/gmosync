@@ -1,4 +1,4 @@
-- Hi, I’m @gmosync
+- Hi, I’m gmo
 - I’m learning AI, ML, Data Science
 - I’m currently developing my own SaaS
 - Reach me at [X/Twitter](https://x.com/gmosync) or [GMail](mailto:gmosync@gmail.com)
