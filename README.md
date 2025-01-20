@@ -1,5 +1,5 @@
-- Hi, I’m @gmosync\n
-I’m learning AI, ML, Data Science
+- Hi, I’m @gmosync
+- I’m learning AI, ML, Data Science
 - I’m currently developing my own SaaS
 - Reach me at [X/Twitter](https://x.com/gmosync) or [GMail](mailto:gmosync@gmail.com)
 
