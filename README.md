@@ -1,5 +1,8 @@
-I'm currently pursuing my Master's in Artificial Intelligence, building on a background in business analytics and data science.
+Garrett
 
-This summer, my studies are focused on Deep Learning, while also exploring applied AI use cases, such as RAG pipelines and other production-grade generative AI solutions.
+Data scientist focused on applied machine learning and advanced deep learning.
+Professional work in data science and analytics, with emphasis on applied ML systems
+Graduate study in artificial intelligence with a focus on deep learning
+Interests include representation learning, NLP, model robustness, and production ML workflows
 
-At work, I do advanced analytics for a large energy company where I focus on engineering process analytics. 
+Repositories contain coursework, experiments, and independent projects
